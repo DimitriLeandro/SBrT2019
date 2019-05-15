@@ -1,0 +1,3657 @@
+[
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 215,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 214,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 213,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 212,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 211,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 210,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 209,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 208,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 207,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTI2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 206,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 205,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 204,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 203,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTI1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 202,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 201,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 200,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 199,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 198,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 197,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 196,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 195,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "U2VtIHJlc3Bvc3Rh",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 194,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 193,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 192,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 191,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 190,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 189,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 188,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 187,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "U2VtIHJlc3Bvc3Rh",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 186,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 185,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 184,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 183,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 182,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 181,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 180,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 179,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 178,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 177,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 176,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTg2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 175,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 174,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 173,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTgz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 172,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 171,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 170,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 169,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 168,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 167,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 166,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 165,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 164,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 163,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 162,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 161,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 160,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 159,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 158,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 157,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 156,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 155,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 154,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 153,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 152,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTgx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 151,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 150,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 149,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 148,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 147,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 146,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 145,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 144,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 143,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 142,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTgz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 141,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 140,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 139,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 138,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 137,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 136,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 135,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 134,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 133,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "U2VtIHJlc3Bvc3Rh",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 132,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 131,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 130,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 129,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 128,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTgz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 127,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 126,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 125,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 124,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 123,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 122,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 121,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 120,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 119,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 118,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 117,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 116,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 115,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 114,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 113,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 112,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 111,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 110,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTcx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 109,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 108,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 107,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 106,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTc4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 105,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 104,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 103,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 102,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 101,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 100,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 99,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 98,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 97,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 96,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 95,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 94,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 93,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 92,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 91,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 90,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 89,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 88,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 87,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 86,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 85,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 84,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 83,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 82,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 81,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 80,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 79,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 78,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 77,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 76,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 75,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 74,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "U2VtIHJlc3Bvc3Rh",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 73,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 72,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 71,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 70,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "U2VtIHJlc3Bvc3Rh",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 69,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 68,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 67,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 66,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 65,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 64,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 63,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 62,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 61,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 60,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 59,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 58,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 57,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 56,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 55,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 54,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTY5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 53,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 52,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 51,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 50,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 49,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ0",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 48,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 47,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 46,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 45,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQ4",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 44,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 43,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 42,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 41,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 40,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 39,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 38,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 37,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 36,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 35,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 34,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 33,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 32,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 31,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 30,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 29,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 28,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 27,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 26,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 25,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 24,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTMx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 23,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTI1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 22,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQz",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 21,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 20,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "U2VtIHJlc3Bvc3Rh",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 19,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQy",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 17,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTYw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 16,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTU2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 15,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTUw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 14,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM1",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 13,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 12,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM2",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 11,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 10,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM5",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 9,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 8,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTM3",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 7,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 6,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915800000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 5,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQx",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 4,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916000000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 3,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915400000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 2,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "LTQw",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 1,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 916200000
+            }
+        }
+    },
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "7",
+            "applicationName": "Aplicacao1",
+            "data": "SW5pY2lv",
+            "devEUI": "06348de5423ed1aa",
+            "deviceName": "PycomABP",
+            "fCnt": 0,
+            "fPort": 2,
+            "txInfo": {
+                "dr": 5,
+                "frequency": 915600000
+            }
+        }
+    }
+]

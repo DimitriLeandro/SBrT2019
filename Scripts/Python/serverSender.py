@@ -34,7 +34,7 @@ else:
 		# CRIANDO A STRING DO COMANDO
 		comando = "curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' --header 'Grpc-Metadata-Authorization: Bearer " + str(jwt) + "' -d '{ "
 		comando = comando + "\"deviceQueueItem\": {"
-		comando = comando + "\"confirmed\": true, "
+		comando = comando + "\"confirmed\": false, "
 		comando = comando + "\"data\": \"" + mensagem + "\","
 		comando = comando + "\"devEUI\": \"" + str(dev_eui) + "\","
 		comando = comando + "\"fCnt\": 0,"
