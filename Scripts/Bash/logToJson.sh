@@ -36,3 +36,7 @@ sed -i '$ s/.$//' "$1"/JSON/events.json
 # ADICIONANDO COLCHETES NA ULTIMA LINHA
 echo "]" >> "$1"/JSON/frames.json
 echo "]" >> "$1"/JSON/events.json
+
+# EXECUTANDO O PYTHON QUE TRANSFORMA EM CSV
+python3 ../Python/framesReader.py "$1"
+python3 ../Python/eventsReader.py "$1"
