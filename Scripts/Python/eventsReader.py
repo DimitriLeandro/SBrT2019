@@ -35,7 +35,11 @@ else:
 		nomeCSV = sys.argv[1] + "/CSV/ENDNODE_" + datetime.now().strftime('%Y%m%d%H%M%S') + ".csv"
 		csvFile = open(nomeCSV, "a+")
 
-		csvFile.write("fCnt,rssi,dr,freq" + "\n")
+		csvFile.write("fCnt,")
+		csvFile.write("data,")
+		csvFile.write("adr,")
+		csvFile.write("dr,")
+		csvFile.write("frequency\n")
 		
 		# VOU PASSAR POR CADA ELEMENTO DO LORA E SALVAR APENAS O QUE EU QUERO
 		for x in data:
@@ -47,21 +51,28 @@ else:
 					jsonPayLoad   = json.loads(stringPayLoad)
 
 					# PEGANDO AS INFORMAÇÕES
-					fCnt = str(jsonPayLoad["fCnt"])					
-					dr 	 = str(jsonPayLoad["txInfo"]["dr"])
-					freq = str(jsonPayLoad["txInfo"]["frequency"])
+					fCnt      = str(jsonPayLoad["fCnt"])
+					adr       = str(jsonPayLoad["adr"])					
+					dr        = str(jsonPayLoad["txInfo"]["dr"])
+					frequency = str(jsonPayLoad["txInfo"]["frequency"])					
 
-					# PEGANDO O RSSI QUE ESTA EM BASE64
+					# PEGANDO A MENSAGEM QUE ESTA EM BASE64
 					dataBase64 = str(jsonPayLoad["data"])
-					dataNormal = str(base64.b64decode(dataBase64))
+					data       = str(base64.b64decode(dataBase64))
 
 					# REMOVENDO AQUELE b'' DA MENSAGEM
-					rssi = dataNormal[2:-1]
+					data = data[2:-1]
 
 					# PRINTANDO NO TERMINAL E ESCREVENDO NO CSV						
-					stringFinal = fCnt + "," + rssi + "," + dr + "," + freq + "\n"
+					stringFinal = fCnt + ","
+					stringFinal = stringFinal + data + ","
+					stringFinal = stringFinal + adr + ","				
+					stringFinal = stringFinal + dr + ","
+					stringFinal = stringFinal + frequency + "\n"
+
+					# ESCREVENDO NO CSV
 					csvFile.write(stringFinal)
 			except:
-				print("Algum dado não pôde ser lido")
+				print("eventsReader.py -> Algum dado não pôde ser lido.")
 
 		csvFile.close()

@@ -35,7 +35,23 @@ else:
 		nomeCSV = sys.argv[1] + "/CSV/GATEWAY_" + datetime.now().strftime('%Y%m%d%H%M%S') + ".csv"
 		csvFile = open(nomeCSV, "a+")
 
-		csvFile.write("fCnt,freq,bw,sf,cr,rssi,channel,timestamp" + "\n")
+		csvFile.write("frequency,")
+		csvFile.write("bandwidth,")
+		csvFile.write("spreadingFactor,")
+		csvFile.write("codeRate,")
+		csvFile.write("timestamp,")
+		csvFile.write("rssi,")
+		csvFile.write("loraSnr,")
+		csvFile.write("channel,")
+		csvFile.write("rfChain,")
+		csvFile.write("latitude,")
+		csvFile.write("longitude,")
+		csvFile.write("altitude,")
+		csvFile.write("adr,")
+		csvFile.write("adrAckReq,")
+		csvFile.write("fCnt,")
+		csvFile.write("fOpts\n")
+
 		
 		# VOU PASSAR POR CADA ELEMENTO DO LORA E SALVAR APENAS O QUE EU QUERO
 		for x in data:
@@ -43,29 +59,57 @@ else:
 				# VERIFICANDO SE É UM UPLINK
 				if "uplinkFrame" in x["result"]:
 					#VERIFICANDO SE NÃO É UM ACK
-					ack 	= str(x["result"]["uplinkFrame"]["phyPayloadJSON"])
-					jsonAck = json.loads(ack)
-					ack 	= str(jsonAck["macPayload"]["fhdr"]["fCtrl"]["ack"])
+					phyPayloadStr  = str(x["result"]["uplinkFrame"]["phyPayloadJSON"])
+					phyPayloadJSON = json.loads(phyPayloadStr)					
+					ack            = str(phyPayloadJSON["macPayload"]["fhdr"]["fCtrl"]["ack"])
 
 					if ack == False or ack == "False":
-						# SELECIONANDO APENAS OS DADOS QUE EU QUERO
-						fCnt 	= str(x["result"]["uplinkFrame"]["phyPayloadJSON"])
-						freq 	= str(x["result"]["uplinkFrame"]["txInfo"]["frequency"])
-						bw		= str(x["result"]["uplinkFrame"]["txInfo"]["loRaModulationInfo"]["bandwidth"])
-						sf 		= str(x["result"]["uplinkFrame"]["txInfo"]["loRaModulationInfo"]["spreadingFactor"])
-						cr 		= str(x["result"]["uplinkFrame"]["txInfo"]["loRaModulationInfo"]["codeRate"])
-						rssi 	= str(x["result"]["uplinkFrame"]["rxInfo"][0]["rssi"])
-						channel = str(x["result"]["uplinkFrame"]["rxInfo"][0]["channel"])
-						tStamp 	= str(x["result"]["uplinkFrame"]["rxInfo"][0]["timestamp"])						
+						# SELECIONANDO A PRIMEIRA PARTE DOS DADOS
+						frequency       = str(x["result"]["uplinkFrame"]["txInfo"]["frequency"])
+						bandwidth       = str(x["result"]["uplinkFrame"]["txInfo"]["loRaModulationInfo"]["bandwidth"])
+						spreadingFactor = str(x["result"]["uplinkFrame"]["txInfo"]["loRaModulationInfo"]["spreadingFactor"])
+						codeRate        = str(x["result"]["uplinkFrame"]["txInfo"]["loRaModulationInfo"]["codeRate"])
+						timestamp       = str(x["result"]["uplinkFrame"]["rxInfo"][0]["timestamp"])
+						rssi            = str(x["result"]["uplinkFrame"]["rxInfo"][0]["rssi"])
+						loraSnr         = str(x["result"]["uplinkFrame"]["rxInfo"][0]["loraSnr"])
+						channel         = str(x["result"]["uplinkFrame"]["rxInfo"][0]["channel"])
+						rfChain         = str(x["result"]["uplinkFrame"]["rxInfo"][0]["rfChain"])
+						latitude        = str(x["result"]["uplinkFrame"]["rxInfo"][0]["location"]["latitude"])
+						longitude       = str(x["result"]["uplinkFrame"]["rxInfo"][0]["location"]["longitude"])
+						altitude        = str(x["result"]["uplinkFrame"]["rxInfo"][0]["location"]["altitude"])
+						
+						# A SEGUNDA PARTE ESTÁ DENTRO DO PHYPAYLOADJSON
+						adr             = str(phyPayloadJSON["macPayload"]["fhdr"]["fCtrl"]["adr"])
+						adrAckReq       = str(phyPayloadJSON["macPayload"]["fhdr"]["fCtrl"]["adrAckReq"])
+						fCnt            = str(phyPayloadJSON["macPayload"]["fhdr"]["fCnt"])
+						fOpts           = str(phyPayloadJSON["macPayload"]["fhdr"]["fOpts"])
 
-						# O FRAME COUNT VEM DENTRO DE UMA STRING QUE NA VERDADE É UM JSON (IGAUL O ACK)
-						jsonFrameCount = json.loads(fCnt)
-						fCnt 	= str(jsonFrameCount["macPayload"]["fhdr"]["fCnt"])
+						# FORMATANDO O FOPTS, OU VEM NULL OU VEM OUTRO JSON, MAS EU QUERO BINÁRIO
+						if(fOpts == "None"):
+							fOpts = "False"
+						else:
+							fOpts = "True"
 
 						# PRINTANDO NO TERMINAL E ESCREVENDO NO CSV						
-						stringFinal = fCnt + "," + freq + "," + bw + "," + sf + "," + cr + "," + rssi + "," + channel + "," + tStamp + "\n"
+						stringFinal = frequency + ","
+						stringFinal = stringFinal + bandwidth + ","
+						stringFinal = stringFinal + spreadingFactor + ","
+						stringFinal = stringFinal + codeRate + ","
+						stringFinal = stringFinal + timestamp + ","
+						stringFinal = stringFinal + rssi + ","
+						stringFinal = stringFinal + loraSnr + ","
+						stringFinal = stringFinal + channel + ","
+						stringFinal = stringFinal + rfChain + ","
+						stringFinal = stringFinal + latitude + ","
+						stringFinal = stringFinal + longitude + ","
+						stringFinal = stringFinal + altitude + ","
+						stringFinal = stringFinal + adr + ","
+						stringFinal = stringFinal + adrAckReq + ","
+						stringFinal = stringFinal + fCnt + ","
+						stringFinal = stringFinal + fOpts + "\n"
+
 						csvFile.write(stringFinal)
 			except:
-				print("Algum dado não pôde ser lido")
+				print("framesReader.py -> Algum dado não pôde ser lido.")
 		
 		csvFile.close()
